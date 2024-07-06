@@ -1,4 +1,4 @@
-# CS 301 Data Science Project: Analyzing Health Data and Building Predictive Models
+# Analyzing Health Data and Building Predictive Models
 
 ## Overview
 This project aims to demonstrate practical skills in analyzing complex datasets and building machine learning models. Using health-related data from open data portals, we explore various features, build predictive models, and compare their performance.
